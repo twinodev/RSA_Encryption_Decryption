@@ -79,4 +79,5 @@ This project is provided for educational purposes. No license specified — add 
 If you want improvements or have questions, open an issue or reach out to the repository owner.
 
 ---
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/VY44H6DSDJKJ4)
 
