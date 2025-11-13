@@ -80,4 +80,3 @@ If you want improvements or have questions, open an issue or reach out to the re
 
 ---
 
-Badges above are generic examples. To customize them for your repository (for example CI build or PyPI), replace the badge URLs with ones from https://shields.io/ and swap `twinodev/RSA_Encryption_Decryption` for your GitHub owner/repo where applicable.
